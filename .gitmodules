@@ -1,0 +1,3 @@
+[submodule "www/default/dashboard"]
+	path = www/default/dashboard
+	url = git@github.com:sidedwards/VVV-Dashboard.git

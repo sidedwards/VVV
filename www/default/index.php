@@ -4,8 +4,8 @@
  * dashboard provided by Varying Vagrant Vagrants. This file should be
  * located in the `www/default/` directory.
  */
-if ( file_exists( 'dashboard-custom.php' ) ) {
-	include( 'dashboard-custom.php' );
+if ( file_exists( 'dashboard/dashboard-custom.php' ) ) {
+	include( 'dashboard/dashboard-custom.php' );
 	exit;
 }
 
